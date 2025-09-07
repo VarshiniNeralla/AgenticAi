@@ -1,6 +1,8 @@
 
 # 📊 Real-Time Governance System (RTGS)
 
+**Demo video**: https://drive.google.com/drive/folders/1L9L3n2hv2rlUbkzGUwNta2otlVMJRK7n?usp=drive_link
+
 ## 📌 Overview
 
 The **Real-Time Governance System (RTGS)** is a data-driven platform that transforms raw datasets into **clean, standardized, and actionable insights**.
